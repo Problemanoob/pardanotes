@@ -1,0 +1,12 @@
+nomEtudiant;matiere;note;bonus
+20230003;informatique;;orthographe;vocabulaire;
+20230003;informatique;;orthographe;vocabulaire;
+20230001;maths;1;
+20230001;maths;1;
+20230003;anglais;1.5;reflexion;
+20230003;informatique;;orthographe;vocabulaire;
+20230003;Programmation
+;1.5;orthographe;vocabulaire;
+20230003;;;orthographe;vocabulaire;
+20230003;Maths
+;;orthographe;vocabulaire;

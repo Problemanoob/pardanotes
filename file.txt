@@ -1,0 +1,20 @@
+nom;note
+Emma Snowsill;12
+Tom Richard;8
+Jawad Abdelmoula;18
+Jan Frodeno;16
+Cassandre Beaugrand;6
+Taylor Spivey;11
+Sam Long;18
+Lionel Sanders;16
+Gustav Iden;20
+Flora Duffy;20
+Taylor Knibb;7
+Nathan Qherbeur;9
+Alex Yee;12
+Lucy Charles;19
+Ellie Salthouse;18
+Heather Jackson;14
+Joe Skipper;5
+Manon Genêt;10
+Antony Costes;1

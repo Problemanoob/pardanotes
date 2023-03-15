@@ -1,0 +1,29 @@
+table,
+th,
+td {
+	border: 1px solid #40463D;
+	border-collapse: collapse;
+	padding: 5px;
+	background-color: white;
+}
+
+th {
+	background-color: #40463D;
+	color: white;
+}
+
+table {
+	width: 80%;
+	margin-left: 20px;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.red {
+	color: red;
+	text-align: right;
+}
+
+.black {
+	color: #40463D;
+	text-align: right;
+}

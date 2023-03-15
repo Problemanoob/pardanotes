@@ -1,0 +1,169 @@
+body {
+	background: #d3e9cb;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	min-height: 500px;
+}
+
+a,
+a:visited {
+	text-decoration: none;
+	color: #40463D;
+}
+
+#menu a,
+a:visited {
+	color: #40463D;
+}
+
+#menu a:hover {
+	color: #40463D;
+}
+
+#container {
+	width: 1000px;
+	margin: 0 auto;
+	margin-top: 10%;
+}
+
+/* Bordered form */
+form {
+	width: 90%;
+	padding: 30px;
+	border: 1px solid #f1f1f1;
+	background: #fff;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#container h1 {
+	width: 38%;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+
+#container label,
+#container legend {
+	margin: 5px 0 15px 5px;
+	font-size: large;
+	font-weight: bold;
+}
+
+/* Full-width inputs */
+input[type=text],
+input[type=password] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+
+/* Set a style for all buttons */
+input[type=submit],
+input[type=reset] {
+	background-color: #40463D;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 8px;
+	border: none;
+	cursor: pointer;
+	width: 45%;
+	border: 1px solid #40463D;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+input[type=submit]:hover,
+input[type=reset]:hover {
+	background-color: white;
+	color: #40463D;
+}
+
+#menu div {
+	border: 1px solid #40463D;
+	background-color: #ABBCA4;
+	color: #40463D;
+	padding: 14px 20px;
+	margin: 20px 8px;
+	border: none;
+	cursor: pointer;
+	width: 45%;
+	text-align: center;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+#menu div:hover {
+	background-color: white;
+}
+
+#menu a {
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: large;
+}
+
+#menu {
+	display: flex;
+	margin-top: 5px;
+}
+
+#menu div {
+	padding: 10px;
+}
+
+#header span {
+	font-size: larger;
+	font-weight: bolder;
+	padding-left: 25px
+}
+
+footer {
+	width: 100%;
+	text-align: center;
+	font-size: small;
+}
+
+#contenu {
+	border: 1px solid #f1f1f1;
+	min-height: 450px;
+	background: #fff;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+	padding-left: 10px;
+}
+
+
+#export {
+	margin: 20px;
+}
+
+#help {
+	margin-top: 30px;
+}
+
+.bouton {
+	border: 1px solid #40463D;
+	background-color: #ABBCA4;
+	color: #40463D;
+	padding: 14px 20px;
+	border: none;
+	cursor: pointer;
+	width: 45%;
+	text-align: center;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.message {
+	font-size: large;
+	color: #40463D;
+}
+
+#droite,
+#gauche {
+	display: inline-flex;
+	width: 45%;
+}
+
+#nomEtudiant {
+	width: 90%
+}

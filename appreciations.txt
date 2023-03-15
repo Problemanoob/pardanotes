@@ -1,0 +1,21 @@
+{
+  "Emma Snowsill":"Bravo Emma, tu as obtenu une bonne note et tu as fait un travail très apprécié.",
+  "Tom Richard":"À travailler, Tom, tu peux mieux faire la prochaine fois.",
+  "Jawad Abdelmoula":"Félicitations à toi Jawad! Tu as fait un travail remarquable.",
+  "Jan Frodeno":"Bravo Jan, tu as obtenu une note presque excellente.",
+  "Cassandre Beaugrand":"Il faudra que tu travailles plus dur la prochaine fois, Cassandre.",
+  "Taylor Spivey":"Très bien Taylor, tu es proche du succès.",
+  "Sam Long":"Félicitations Sam, tu as fait un travail remarquable.",
+  "Lionel Sanders":"Bravo Lionel, tu as obtenu une note presque excellente.",
+  "Gustav Iden":"Félicitations Gustav, tu as obtenu un score parfait!",
+  "Flora Duffy":"Félicitations Flora, tu as obtenu un score parfait!",
+  "Taylor Knibb":"À travailler, Taylor, tu peux mieux faire la prochaine fois.",
+  "Nathan Qherbeur":"Très bien Nathan, tu es proche du succès.",
+  "Alex Yee":"Bravo Alex, tu as obtenu une bonne note et tu as fait un travail très apprécié.",
+  "Lucy Charles":"Félicitations Lucy, tu as fait un travail remarquable.",
+  "Ellie Salthouse":"Félicitations Ellie, tu as fait un travail remarquable.",
+  "Heather Jackson":"Bravo Heather, tu as obtenu une très bonne note.",
+  "Joe Skipper":"Il faudra que tu travailles plus dur la prochaine fois, Joe.",
+  "Manon Gen\u00eat":"Très bien Manon, tu es proche du succès.",
+  "Antony Costes":"Il faudra que tu travailles plus dur la prochaine fois, Antony."
+}
