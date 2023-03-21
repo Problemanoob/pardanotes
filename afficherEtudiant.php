@@ -7,9 +7,11 @@ if (isset($_POST["username"])) {
 } else {
 	$username = "Inconnu";
 }
-
 $message = "";
-
+$hostname = "localhost";
+$user = "root";
+$pwd = "";
+$database = "pardanotes";
 try {
 	//Connexion à la BDD
 	$mysqlConnection = new PDO(
@@ -18,13 +20,17 @@ try {
 		$pwd
 	);
 	//Ecriture de la requête
-	$sqlQuery = "SELECT (:nom,:prenom,:login,:mdp,:date_naissance,:access";
+	$sqlQuery = "SELECT * FROM etudiant";
 	//Préparation de la requête par PDO
-	$statment = $mysqlConnection->prepare("*A COMPLETER*");
+	$statment = $mysqlConnection->prepare($sqlQuery);
 	//Execution de la requête
 	if ($statment->execute()) {
 		//le resultat est retourné sous forme de tableau
 		$etudiants = $statment->fetchAll();
+		var_dump(($etudiants));
+		foreach($etudiants as $cle => $valeur) {
+			echo $valeur,'<br/>';
+		}
 	}
 } catch (PDOException $error) {
 	echo 'Échec de la connexion : ' . $error->getMessage();

@@ -17,7 +17,7 @@ if (isset($_POST["nom"])) {
     $hostname = "localhost";
 $user = "root";
 $pwd = "";
-$database = "etudiant";
+$database = "pardanotes";
 
 
 try {
@@ -27,7 +27,7 @@ try {
         $pwd
     );
     echo "Connexion réussie<br/>";
-    $sqlQuery = "INSERT INTO `etudiant` ( `nom`, `prenom`, `login`, `password`,
+    $sqlQuery = "INSERT INTO `pardanotest` ( `nom`, `prenom`, `login`, `password`,
     `date_naissance`,`actif`) VALUES ( :nom, :prenom, :login, :password, :date_naissance,
     :actif);";
     //Préparation de la requête par PDO
